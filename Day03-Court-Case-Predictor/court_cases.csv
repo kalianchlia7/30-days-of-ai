@@ -1,0 +1,21 @@
+CrimeType,PriorConvictions,WeaponUsed,Plea,Outcome
+Theft,0,No,Guilty,Convicted
+Theft,1,No,Guilty,Convicted
+Theft,0,No,Not Guilty,Acquitted
+Robbery,3,Yes,Guilty,Convicted
+Robbery,2,Yes,Guilty,Convicted
+Robbery,0,Yes,Not Guilty,Convicted
+Fraud,0,No,Not Guilty,Acquitted
+Fraud,2,No,Guilty,Convicted
+Fraud,1,No,Guilty,Convicted
+Assault,2,Yes,Guilty,Convicted
+Assault,0,Yes,Not Guilty,Acquitted
+Assault,1,Yes,Guilty,Convicted
+Burglary,3,Yes,Guilty,Convicted
+Burglary,0,No,Not Guilty,Acquitted
+Burglary,1,No,Guilty,Convicted
+Drug Possession,0,No,Guilty,Convicted
+Drug Possession,0,No,Not Guilty,Acquitted
+Drug Possession,2,No,Guilty,Convicted
+Vandalism,0,No,Not Guilty,Acquitted
+Vandalism,1,No,Guilty,Convicted
